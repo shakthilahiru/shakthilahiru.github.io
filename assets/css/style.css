@@ -97,7 +97,7 @@ h1, h2, h3, h4, h5, h6 {
   color: #fff;
   line-height: 1;
   padding: 8px 0;
-  margin-right: 4px;
+  margin-right: 8px;
   border-radius: 50%;
   text-align: center;
   width: 36px;
@@ -261,7 +261,7 @@ h1, h2, h3, h4, h5, h6 {
     line-height: 36px;
   }
   #hero h2 {
-    font-size: 18px;
+    font-size: 20px;
     line-height: 24px;
     margin-bottom: 30px;
   }
@@ -665,7 +665,7 @@ section {
 
 .testimonials .testimonial-item .quote-icon-left, .testimonials .testimonial-item .quote-icon-right {
   color: #c3e8fa;
-  font-size: 26px;
+  font-size: 28px;
 }
 
 .testimonials .testimonial-item .quote-icon-left {
